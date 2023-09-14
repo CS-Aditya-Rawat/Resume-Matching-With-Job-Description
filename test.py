@@ -16,7 +16,6 @@ logging.info("Started to Read Data from ./Data")
 
 try:
     file_names = get_filenames_from_dir("./data")
-    print(file_names)
     logging.info("Reading from Data is now complete.")
 except Exception as e:
     logging.error("There are no resumes present in the specified folder.")

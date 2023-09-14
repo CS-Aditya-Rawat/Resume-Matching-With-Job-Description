@@ -1,7 +1,7 @@
 import re
 import spacy
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_md")
 
 REGEX_PATTERNS = {
     "email_pattern": r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b",
@@ -62,25 +62,3 @@ class TextCleaner:
             if token.is_stop:
                 text = text.replace(token.text, "")
         return text
-
-
-class CountFrequency:
-    def __init__(self, text):
-        self.text = text
-        self.doc = nlp(text)
-
-    def count_frequency(self):
-        """
-        Count the frequency of words in the input text.
-
-        Returns:
-            dict: A dicionary with the words as keys and the frequency as the values.
-        """
-        pos_freq = {}
-        for token in self.doc:
-            if token.pos_ in pos_freq:
-                pos_freq[token.pos_] += 1
-            else:
-                pos_freq[token.pos_] = 1
-
-        return pos_freq
