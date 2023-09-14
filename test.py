@@ -1,5 +1,5 @@
 import json
-from scripts import ResumeProcessor
+from scripts import ResumeProcessor, JobDescriptionProcessor
 from scripts.utils import init_logging_config, get_filenames_from_dir
 import logging
 
@@ -23,8 +23,15 @@ except Exception as e:
     logging.error("Please add resumes in the Data/Resumes folder and try again.")
     exit(1)
 
+# Parsing the Resumes
 logging.info("Starting parsing the resumes.")
 for file in file_names:
     processor = ResumeProcessor(file)
     success = processor.process()
 logging.info("Parsing of the resume is now completed.")
+
+# Parsing the Job Description
+logging.info("Started Parsing the Job Description.")
+processor = JobDescriptionProcessor("training_data.csv")
+success = processor.process()
+logging.info("Parsing of the Job Description is now Complete.")

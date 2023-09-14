@@ -4,8 +4,8 @@ import os.path
 import pathlib
 import json
 
-READ_RESUME_FROM = "./data/"
-SAVE_DIRECTORY = "./data/Processed"
+READ_RESUME_FROM = "./data/Resumes"
+SAVE_DIRECTORY = "./data/Processed/Resumes"
 
 
 class ResumeProcessor:
