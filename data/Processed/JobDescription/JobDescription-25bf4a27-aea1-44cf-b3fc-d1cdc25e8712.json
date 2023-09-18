@@ -1,0 +1,131 @@
+{
+    "bi_grams": "[highly influential, growing mind, market share, apple products, building longterm, longterm relationships, customer experiences, partner team, team growing, challenging environment, maintaining visual, visual merchandising, partner team, help people, people understand, apple products, livesexcellent communication, communication skills, skills allowing, small group, individuals years, years preferred, preferred working, dynamic sales, sales andor, andor results, results driven, driven environment, proven success, success developing, developing customer, customer loyaltyability, partner team, grow apple, apple business]",
+    "clean_data": "description as an asc you will be highly influential in growing mind and market share of apple products while building longterm relationships with those who share your passion  customer experiences are driven through you and your partner team growing in an ever changing and challenging environment you strive for perfection whether its maintaining visual merchandising or helping to grow and develop your partner team  qualifications a passion to help people understand how apple products can enrich their livesexcellent communication skills allowing you to be as comfortable in front of a small group as you are speaking with individuals years preferred working in a dynamic sales andor results driven environment as well as proven success developing customer loyaltyability to encourage a partner team and grow apple business",
+    "entities": [],
+    "extracted_keywords": [
+        "description",
+        "asc",
+        "mind",
+        "market",
+        "share",
+        "apple",
+        "products",
+        "longterm",
+        "relationships",
+        "passion",
+        "customer",
+        "experiences",
+        "partner",
+        "team",
+        "environment",
+        "perfection",
+        "merchandising",
+        "partner",
+        "team",
+        "passion",
+        "people",
+        "apple",
+        "products",
+        "communication",
+        "skills",
+        "front",
+        "group",
+        "individuals",
+        "years",
+        "sales",
+        "results",
+        "environment",
+        "success",
+        "customer",
+        "loyaltyability",
+        "partner",
+        "team",
+        "apple",
+        "business"
+    ],
+    "job_desc_data": "description\nas an asc you will be highly influential in growing mind and market share of apple products while building longterm relationships with those who share your passion \ncustomer experiences are driven through you and your partner team growing in an ever changing and challenging environment you strive for perfection whether its maintaining visual merchandising or helping to grow and develop your partner team\n\nqualifications\na passion to help people understand how apple products can enrich their livesexcellent communication skills allowing you to be as comfortable in front of a small group as you are speaking with individuals years preferred working in a dynamic sales andor results driven environment as well as proven success developing customer loyaltyability to encourage a partner team and grow apple business",
+    "keyterms": [
+        [
+            "apple product",
+            0.23029133125598167
+        ],
+        [
+            "partner team",
+            0.1824822524138117
+        ],
+        [
+            "challenging environment",
+            0.07098948250588834
+        ],
+        [
+            "longterm relationship",
+            0.07091775508912244
+        ],
+        [
+            "dynamic sale andor",
+            0.06790654163508529
+        ],
+        [
+            "visual merchandising",
+            0.06116574977804489
+        ],
+        [
+            "customer experience",
+            0.060501576472883054
+        ],
+        [
+            "livesexcellent communication skill",
+            0.05129725635545019
+        ],
+        [
+            "small group",
+            0.023553962990877926
+        ],
+        [
+            "individual year",
+            0.020780492450607556
+        ],
+        [
+            "market share",
+            0.020382899203748306
+        ],
+        [
+            "passion",
+            0.01666741920994848
+        ],
+        [
+            "customer loyaltyability",
+            0.012448555536495803
+        ],
+        [
+            "mind",
+            0.01156900350904725
+        ],
+        [
+            "perfection",
+            0.010702749196262434
+        ],
+        [
+            "influential",
+            0.01065538113447297
+        ],
+        [
+            "people",
+            0.010174542515608252
+        ],
+        [
+            "qualification",
+            0.010020011292217884
+        ],
+        [
+            "asc",
+            0.00998052987751907
+        ],
+        [
+            "comfortable",
+            0.00958029977441198
+        ]
+    ],
+    "tri_grams": "[influential in growing, mind and market, share of apple, products while building, building longterm relationships, share your passion, experiences are driven, partner team growing, changing and challenging, environment you strive, strive for perfection, maintaining visual merchandising, merchandising or helping, helping to grow, grow and develop, develop your partner, qualifications a passion, passion to help, help people understand, understand how apple, products can enrich, enrich their livesexcellent, livesexcellent communication skills, communication skills allowing, speaking with individuals, individuals years preferred, years preferred working, dynamic sales andor, sales andor results, andor results driven, results driven environment, proven success developing, success developing customer, developing customer loyaltyability, loyaltyability to encourage, encourage a partner, team and grow, grow apple business]",
+    "unique_id": "e3280946-7d38-4f62-8681-aa5d5a38a26c"
+}

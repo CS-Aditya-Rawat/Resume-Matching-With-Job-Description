@@ -12,10 +12,10 @@ def read_json(filename):
     return data
 
 
-logging.info("Started to Read Data from ./Data")
+logging.info("Started to Read Data from ./data")
 
 try:
-    file_names = get_filenames_from_dir("./data")
+    file_names = get_filenames_from_dir("./data/Resumes")
     logging.info("Reading from Data is now complete.")
 except Exception as e:
     logging.error("There are no resumes present in the specified folder.")
@@ -25,6 +25,7 @@ except Exception as e:
 
 # Parsing the Resumes
 logging.info("Starting parsing the resumes.")
+logging.info(f"Files: {file_names}")
 for file in file_names:
     processor = ResumeProcessor(file)
     success = processor.process()
@@ -32,6 +33,6 @@ logging.info("Parsing of the resume is now completed.")
 
 # Parsing the Job Description
 logging.info("Started Parsing the Job Description.")
-processor = JobDescriptionProcessor("training_data.csv")
+processor = JobDescriptionProcessor("training_data.csv", 15)
 success = processor.process()
 logging.info("Parsing of the Job Description is now Complete.")

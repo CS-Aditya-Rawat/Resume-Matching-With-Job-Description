@@ -1,0 +1,140 @@
+{
+    "bi_grams": "[design develop, test high, high quality, quality software, software features, understanding user, user needs, designed code, best practices, good communication, communication sense, good team, team player, bachelors degree, computer science, science engineering, engineering information, information technology, equivalent experience, years professional, professional software, software development, development experience, enterprise environment, development experience, wordpress wp, wp plugins, plugins php, php htmlcss, java script, mysql linux, linux git, strong analytical, debugging skills, skills testing, common debugging, debugging tools]",
+    "clean_data": " design develop and test high quality software features by understanding user needs and implementing well designed code  follow and implement the code with standards and best practices  good communication sense of urgency  a good team player  skills  experience  a bachelors degree in computer science engineering information technology or equivalent experience   years professional software development experience with php on wordpress in an enterprise environment  development experience in wordpress wp plugins php htmlcss  java script  mysql linux git  strong analytical and debugging skills testing and familiarity with common debugging tools",
+    "entities": [
+        "plugins php htmlcss"
+    ],
+    "extracted_keywords": [
+        "design",
+        "quality",
+        "software",
+        "features",
+        "user",
+        "needs",
+        "code",
+        "code",
+        "standards",
+        "practices",
+        "communication",
+        "sense",
+        "urgency",
+        "team",
+        "player",
+        "experience",
+        "bachelors",
+        "degree",
+        "computer",
+        "science",
+        "engineering",
+        "information",
+        "technology",
+        "experience",
+        "years",
+        "software",
+        "development",
+        "experience",
+        "php",
+        "enterprise",
+        "environment",
+        "development",
+        "experience",
+        "wp",
+        "php",
+        "htmlcss",
+        "java",
+        "script",
+        "mysql",
+        "linux",
+        "git",
+        "skills",
+        "testing",
+        "familiarity",
+        "debugging",
+        "tools"
+    ],
+    "job_desc_data": " design develop and test high quality software features by understanding user needs and implementing well designed code\n follow and implement the code with standards and best practices\n good communication sense of urgency  a good team player\n\nskills  experience\n a bachelors degree in computer science engineering information technology or equivalent experience\n  years professional software development experience with php on wordpress in an enterprise environment\n development experience in wordpress wp plugins php htmlcss  java script\n mysql linux git\n strong analytical and debugging skills testing and familiarity with common debugging tools",
+    "keyterms": [
+        [
+            "year professional software development experience",
+            0.2291042087643326
+        ],
+        [
+            "high quality software feature",
+            0.151364018884064
+        ],
+        [
+            "computer science engineering information technology",
+            0.14387784956783828
+        ],
+        [
+            "good team player",
+            0.05464601579477826
+        ],
+        [
+            "good communication sense",
+            0.050470582161328686
+        ],
+        [
+            "user need",
+            0.02683445388742392
+        ],
+        [
+            "good practice",
+            0.025895732784570934
+        ],
+        [
+            "mysql linux git",
+            0.02264857080528398
+        ],
+        [
+            "bachelors degree",
+            0.021878122973759292
+        ],
+        [
+            "equivalent experience",
+            0.021054439696292455
+        ],
+        [
+            "enterprise environment",
+            0.018877335707539248
+        ],
+        [
+            "php htmlcss",
+            0.018555889853259563
+        ],
+        [
+            "wordpress wp",
+            0.018446403589547068
+        ],
+        [
+            "java script",
+            0.018348024710565028
+        ],
+        [
+            "code",
+            0.017140269582356562
+        ],
+        [
+            "strong analytical",
+            0.016524195729533897
+        ],
+        [
+            "skill",
+            0.01596878845278563
+        ],
+        [
+            "skill testing",
+            0.015703353339284014
+        ],
+        [
+            "urgency",
+            0.014833912631964988
+        ],
+        [
+            "standard",
+            0.014814005113224494
+        ]
+    ],
+    "tri_grams": "[develop and test, test high quality, high quality software, quality software features, features by understanding, understanding user needs, needs and implementing, implementing well designed, follow and implement, implement the code, code with standards, standards and best, good communication sense, sense of urgency, good team player, degree in computer, computer science engineering, science engineering information, engineering information technology, technology or equivalent, years professional software, professional software development, software development experience, experience with php, php on wordpress, experience in wordpress, wordpress wp plugins, wp plugins php, plugins php htmlcss, mysql linux git, analytical and debugging, debugging skills testing, testing and familiarity, familiarity with common, common debugging tools]",
+    "unique_id": "58c74266-0a53-4665-be4f-69beb9851b88"
+}

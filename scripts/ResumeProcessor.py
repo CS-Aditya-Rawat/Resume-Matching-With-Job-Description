@@ -2,9 +2,10 @@ from .parsers import ParseResume
 from .ReadPdf import read_single_pdf
 import os.path
 import pathlib
+import time
 import json
 
-READ_RESUME_FROM = "./data/Resumes"
+READ_RESUME_FROM = "./data/Resumes/"
 SAVE_DIRECTORY = "./data/Processed/Resumes"
 
 
@@ -24,6 +25,7 @@ class ResumeProcessor:
 
     def _read_resumes(self) -> dict:
         data = read_single_pdf(self.input_file_name)
+        time.sleep(1)
         output = ParseResume(data).get_JSON()
         return output
 

@@ -1,0 +1,237 @@
+{
+    "bi_grams": "[ENGINEERING COORDINATOR, COORDINATOR Summary, provides career, career advancement, advancement opportunities, friendly environment, develop skills, varied skill, skill set, enjoy learning, learning new, new techniques, Experience ENGINEERING, ENGINEERING COORDINATOR, State Proprietary, Proprietary Software, Software License, License Administrator, Created database, external customer, customer tracking, tracking SAP, SAP Labor, Labor entry, Systems R&D, Destructive Technology, Technology Groups, Groups SAP, SAP IO, IO creation, Purchase requisitions, requisitions Travel, Travel arranger, group members, members Purchase, Purchase Card, project supplies, supplies Patent, Patent meeting, meeting organization, award banquet, banquet dinners, dinners Meeting, Travel scheduling, FACILITIES TEMP, State FACILITIES, FACILITIES ADMINISTRATOR, State Ordered, Ordered parts, Maintained budget, budget plan, achievement awards, BULK TELLER, State Vault, Vault commercial, commercial account, account teller, Bulk teller, Education Associate, Administrative Assistance, Oklahoma Jr., Jr. College, United States, Skills Word, SAP Time, Time Approval, Approval Excel, Travel Arranger, Arranger Access, Access Database, Purchase Reqs, SAP OutLook, SAP Pcard, Pcard purchases, Royalty Agreement, Agreement Tracking]",
+    "clean_data": "ENGINEERING COORDINATOR Summary I desire to work for a company that provides career advancement opportunities in a friendly environment.  I would like to develop skills that make me proficient in my job and an asset to the company.  I have a varied skill set and enjoy learning new techniques. Experience ENGINEERING COORDINATOR   Jul 1996   to  Jul 2016   Company Name   \u00ef\u00bc  City   ,  State Proprietary Software License Administrator, Created database for internal and external customer tracking SAP Labor entry and approval for Systems R&D and Destructive Technology Groups SAP IO creation and Purchase requisitions Travel arranger for various group members Purchase Card for general and project supplies Patent meeting organization and award banquet dinners Meeting & Travel scheduling. FACILITIES TEMP   Nov 1995   to  Jul 1996   Company Name   \u00ef\u00bc  City   ,  State FACILITIES ADMINISTRATOR   Oct 1993   to  Nov 1995   Company Name   \u00ef\u00bc  City   ,  State Ordered parts and supplies. Maintained budget plan. Received several achievement awards. BULK TELLER   Jan 1990   to  Oct 1992   Company Name   \u00ef\u00bc  City   ,  State Vault commercial account teller. Bulk teller. Education Associate of Arts   ,  Administrative Assistance   1990   Oklahoma Jr. College   \u00ef\u00bc  City   ,  State   ,  United States   GPA: \u00c2 3.95 Skills Word        SAP Time Approval Excel        Travel Arranger Access Database    Purchase Reqs in SAP OutLook          IOs in SAP Pcard purchases    Royalty Agreement Tracking",
+    "emails": [],
+    "entities": [
+        "GPA",
+        "SAP Pcard",
+        "State",
+        "Meeting & Travel",
+        "SAP OutLook          ",
+        "State Proprietary Software License Administrator",
+        "Destructive Technology Groups",
+        "SAP Labor",
+        "Oklahoma Jr. College"
+    ],
+    "experience": "Summary I desire to work for a company that provides career advancement opportunities in a friendly environment .   I would like to develop skills that make me proficient in my job and an asset to the company .   I have a varied skill set and enjoy learning new techniques . Experience ENGINEERING COORDINATOR    Jul 1996    to   Jul 2016    Company Name    \u00ef\u00bc   City    ,   State Proprietary Software License Administrator , Created database for internal and external customer tracking SAP Labor entry and approval for Systems R&D and Destructive Technology Groups SAP IO creation and Purchase requisitions Travel arranger for various group members Purchase Card for general and project supplies Patent meeting organization and award banquet dinners Meeting & Travel scheduling . FACILITIES TEMP    Nov 1995    to   Jul 1996    Company Name    \u00ef\u00bc   City    ,   State FACILITIES ADMINISTRATOR    Oct 1993    to   Nov 1995    Company Name    \u00ef\u00bc   City    ,   State Ordered parts and supplies . Maintained budget plan . Received several achievement awards . BULK TELLER    Jan 1990    to   Oct 1992    Company Name    \u00ef\u00bc   City    ,   State Vault commercial account teller . Bulk teller . Education Associate of Arts    ,   Administrative Assistance    1990    Oklahoma Jr. College    \u00ef\u00bc   City    ,   State    ,   United States    GPA : \u00c2 3.95 Skills Word         SAP Time Approval Excel         Travel Arranger Access Database     Purchase Reqs in SAP OutLook           IOs in SAP Pcard purchases     Royalty Agreement Tracking",
+    "extracted_keywords": [
+        "ENGINEERING",
+        "COORDINATOR",
+        "Summary",
+        "company",
+        "career",
+        "advancement",
+        "opportunities",
+        "environment",
+        "skills",
+        "job",
+        "asset",
+        "company",
+        "skill",
+        "techniques",
+        "Experience",
+        "ENGINEERING",
+        "COORDINATOR",
+        "Jul",
+        "Jul",
+        "Company",
+        "Name",
+        "\u00ef\u00bc",
+        "City",
+        "State",
+        "Proprietary",
+        "Software",
+        "License",
+        "Administrator",
+        "database",
+        "customer",
+        "SAP",
+        "Labor",
+        "entry",
+        "approval",
+        "Systems",
+        "R&D",
+        "Destructive",
+        "Technology",
+        "Groups",
+        "SAP",
+        "IO",
+        "creation",
+        "Purchase",
+        "requisitions",
+        "arranger",
+        "group",
+        "members",
+        "Purchase",
+        "Card",
+        "project",
+        "supplies",
+        "Patent",
+        "meeting",
+        "organization",
+        "award",
+        "banquet",
+        "dinners",
+        "Meeting",
+        "Travel",
+        "scheduling",
+        "FACILITIES",
+        "TEMP",
+        "Nov",
+        "Jul",
+        "Company",
+        "Name",
+        "\u00ef\u00bc",
+        "City",
+        "State",
+        "FACILITIES",
+        "ADMINISTRATOR",
+        "Oct",
+        "Nov",
+        "Company",
+        "Name",
+        "\u00ef\u00bc",
+        "City",
+        "State",
+        "parts",
+        "supplies",
+        "budget",
+        "plan",
+        "achievement",
+        "awards",
+        "BULK",
+        "TELLER",
+        "Jan",
+        "Oct",
+        "Company",
+        "Name",
+        "\u00ef\u00bc",
+        "City",
+        "State",
+        "Vault",
+        "account",
+        "teller",
+        "teller",
+        "Education",
+        "Associate",
+        "Arts",
+        "Administrative",
+        "Assistance",
+        "Oklahoma",
+        "Jr.",
+        "College",
+        "\u00ef\u00bc",
+        "City",
+        "State",
+        "United",
+        "States",
+        "GPA",
+        "Skills",
+        "Word",
+        "SAP",
+        "Time",
+        "Approval",
+        "Excel",
+        "Travel",
+        "Arranger",
+        "Access",
+        "Database",
+        "Purchase",
+        "Reqs",
+        "SAP",
+        "OutLook",
+        "IOs",
+        "SAP",
+        "Pcard",
+        "Royalty",
+        "Agreement",
+        "Tracking"
+    ],
+    "keyterms": [
+        [
+            "engineering coordinator",
+            0.4362072497242949
+        ],
+        [
+            "\u00ef\u00bc",
+            0.03707075254216546
+        ],
+        [
+            "City",
+            0.03623120683492728
+        ],
+        [
+            "SAP",
+            0.03312796266883581
+        ],
+        [
+            "Company",
+            0.029212749744098924
+        ],
+        [
+            "Jul",
+            0.029147181503115495
+        ],
+        [
+            "State",
+            0.019649822643816216
+        ],
+        [
+            "Purchase",
+            0.013805409091116931
+        ],
+        [
+            "Travel",
+            0.011491028610717411
+        ],
+        [
+            "award",
+            0.01014296243185309
+        ],
+        [
+            "Nov",
+            0.009121777814330125
+        ],
+        [
+            "Oct",
+            0.007171063366702675
+        ],
+        [
+            "scheduling",
+            0.005934380815383234
+        ],
+        [
+            "temp",
+            0.005870669250205739
+        ],
+        [
+            "facility",
+            0.005826064179229791
+        ],
+        [
+            "Meeting",
+            0.005809966683178856
+        ],
+        [
+            "Labor",
+            0.005798554620019172
+        ],
+        [
+            "Card",
+            0.005786556177405141
+        ],
+        [
+            "dinner",
+            0.005773191563304628
+        ],
+        [
+            "entry",
+            0.005760048139096244
+        ]
+    ],
+    "phones": [],
+    "resume_data": "ENGINEERING COORDINATOR\nSummary\nI desire to work for a company that provides career advancement opportunities in a friendly environment. \nI would like to develop skills that make\nme proficient in my job and an asset to the company. \nI have a varied skill set and enjoy learning new techniques.\nExperience\nENGINEERING COORDINATOR\n \nJul 1996\n \nto \nJul 2016\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nProprietary Software License Administrator, Created database for internal and external customer tracking SAP Labor entry and approval\nfor Systems R&D and Destructive Technology Groups SAP IO creation and Purchase requisitions Travel arranger for various group\nmembers Purchase Card for general and project supplies Patent meeting organization and award banquet dinners Meeting & Travel\nscheduling.\nFACILITIES TEMP\n \nNov 1995\n \nto \nJul 1996\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nFACILITIES ADMINISTRATOR\n \nOct 1993\n \nto \nNov 1995\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nOrdered parts and supplies.\nMaintained budget plan.\nReceived several achievement awards.\nBULK TELLER\n \nJan 1990\n \nto \nOct 1992\n \nCompany Name\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\nVault commercial account teller.\nBulk teller.\nEducation\nAssociate of Arts\n \n, \nAdministrative Assistance\n \n1990\n \nOklahoma Jr. College\n \n\u00ef\u00bc\u200b \nCity\n \n, \nState\n \n, \nUnited States\n \nGPA: \u00c2 3.95\nSkills\nWord\n \n \n \n SAP Time Approval\nExcel\n \n \n \n Travel Arranger\nAccess Database\n \n Purchase Reqs in SAP\nOutLook\n \n \n \n \n IOs in SAP\nPcard purchases\n \n Royalty Agreement Tracking",
+    "tri_grams": "[ENGINEERING COORDINATOR Summary, Summary I desire, desire to work, company that provides, provides career advancement, career advancement opportunities, like to develop, varied skill set, set and enjoy, enjoy learning new, learning new techniques, Experience ENGINEERING COORDINATOR, State Proprietary Software, Proprietary Software License, Software License Administrator, database for internal, internal and external, external customer tracking, customer tracking SAP, tracking SAP Labor, SAP Labor entry, entry and approval, approval for Systems, R&D and Destructive, Destructive Technology Groups, Technology Groups SAP, Groups SAP IO, SAP IO creation, creation and Purchase, Purchase requisitions Travel, requisitions Travel arranger, group members Purchase, members Purchase Card, Card for general, general and project, project supplies Patent, supplies Patent meeting, Patent meeting organization, organization and award, award banquet dinners, banquet dinners Meeting, State FACILITIES ADMINISTRATOR, State Ordered parts, parts and supplies, Maintained budget plan, Received several achievement, State Vault commercial, Vault commercial account, commercial account teller, Associate of Arts, Oklahoma Jr. College, SAP Time Approval, Time Approval Excel, Travel Arranger Access, Arranger Access Database, Reqs in SAP, IOs in SAP, SAP Pcard purchases, Royalty Agreement Tracking]",
+    "unique_id": "d3671db5-b5df-42ae-90c7-32e5ae78b0e9",
+    "years": []
+}

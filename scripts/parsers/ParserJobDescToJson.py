@@ -23,7 +23,7 @@ class ParseJobDesc:
         job_desc_dictionary = {
             "unique_id": str(uuid.uuid4()),
             "job_desc_data": self.job_desc_data,
-            "clean_daat": self.clean_data,
+            "clean_data": self.clean_data,
             "entities": self.entities,
             "extracted_keywords": self.key_words,
             "keyterms": self.keyterms,

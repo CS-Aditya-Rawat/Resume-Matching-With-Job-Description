@@ -1,0 +1,141 @@
+{
+    "bi_grams": "[nashville based, based design, interactive agency, strong focus, elevating brands, customer experience, frontend developer, great fit, greater nashville, nashville area, east nashville, nashville office, office location, location hey, points pizza, contract position, competitive hourly, hourly rate, right person, longterm role, skills needed, needed strong, strong attention, design details, details typography, typography ui, ui etc, etc translating, translating designs, designs responsively, multiple screen, screen sizes, sizes familiarity, similar frameworks, frameworks wordpress, wordpress knowledge, major bonus]",
+    "clean_data": "designups is a nashville based design and interactive agency at designups we have a strong focus on elevating brands with our expertise in design and customer experience  are you a frontend developer with a serious interest in design and ui this could be a great fit if so this job is for someone in the greater nashville area the majority of the work can be done remotely but we do require some time in our east nashville office location hey its not too bad to walk to five points pizza or wildcow for lunch  this is a contract position to start with a competitive hourly rate we would like to find the right person to join our team for a longterm role  skills needed strong attention to design details typography ui etc translating designs responsively for multiple screen sizes familiarity with bootstrap or other similar frameworks wordpress knowledge and desire to learn is a major bonus",
+    "entities": [],
+    "extracted_keywords": [
+        "designups",
+        "nashville",
+        "design",
+        "agency",
+        "designups",
+        "focus",
+        "brands",
+        "expertise",
+        "design",
+        "customer",
+        "experience",
+        "frontend",
+        "developer",
+        "interest",
+        "design",
+        "fit",
+        "job",
+        "area",
+        "majority",
+        "work",
+        "time",
+        "east",
+        "nashville",
+        "office",
+        "location",
+        "points",
+        "pizza",
+        "wildcow",
+        "lunch",
+        "contract",
+        "position",
+        "rate",
+        "person",
+        "team",
+        "role",
+        "skills",
+        "attention",
+        "design",
+        "details",
+        "typography",
+        "translating",
+        "designs",
+        "screen",
+        "sizes",
+        "familiarity",
+        "bootstrap",
+        "frameworks",
+        "knowledge",
+        "bonus"
+    ],
+    "job_desc_data": "designups is a nashville based design and interactive agency at designups we have a strong focus on elevating brands with our expertise in design and customer experience\n\nare you a frontend developer with a serious interest in design and ui this could be a great fit if so this job is for someone in the greater nashville area the majority of the work can be done remotely but we do require some time in our east nashville office location hey its not too bad to walk to five points pizza or wildcow for lunch\n\nthis is a contract position to start with a competitive hourly rate we would like to find the right person to join our team for a longterm role\n\nskills needed\nstrong attention to design details typography ui etc\ntranslating designs responsively for multiple screen sizes\nfamiliarity with bootstrap or other similar frameworks\nwordpress knowledge and desire to learn is a major bonus",
+    "keyterms": [
+        [
+            "similar framework wordpress knowledge",
+            0.15963336155616867
+        ],
+        [
+            "east nashville office location",
+            0.1380660604132503
+        ],
+        [
+            "design detail typography ui",
+            0.1294167409932253
+        ],
+        [
+            "great nashville area",
+            0.07583547251607338
+        ],
+        [
+            "competitive hourly rate",
+            0.052731744711584
+        ],
+        [
+            "frontend developer",
+            0.03831686389213351
+        ],
+        [
+            "great fit",
+            0.03823018815772465
+        ],
+        [
+            "customer experience",
+            0.03278075840122775
+        ],
+        [
+            "strong focus",
+            0.031234185938841936
+        ],
+        [
+            "interactive agency",
+            0.027020417835173803
+        ],
+        [
+            "point pizza",
+            0.023196764057106637
+        ],
+        [
+            "contract position",
+            0.022395581706272264
+        ],
+        [
+            "right person",
+            0.019182534110437154
+        ],
+        [
+            "longterm role",
+            0.018372730340795215
+        ],
+        [
+            "strong attention",
+            0.018228878956624582
+        ],
+        [
+            "multiple screen",
+            0.014724448218477923
+        ],
+        [
+            "designup",
+            0.012500891091295707
+        ],
+        [
+            "lunch",
+            0.010561793148417785
+        ],
+        [
+            "expertise",
+            0.010308447655628
+        ],
+        [
+            "majority",
+            0.010250971815092021
+        ]
+    ],
+    "tri_grams": "[nashville based design, design and interactive, agency at designups, focus on elevating, expertise in design, design and customer, interest in design, design and ui, greater nashville area, area the majority, require some time, east nashville office, nashville office location, office location hey, bad to walk, pizza or wildcow, wildcow for lunch, position to start, competitive hourly rate, like to find, find the right, person to join, join our team, skills needed strong, needed strong attention, attention to design, design details typography, details typography ui, typography ui etc, ui etc translating, etc translating designs, translating designs responsively, responsively for multiple, multiple screen sizes, screen sizes familiarity, familiarity with bootstrap, similar frameworks wordpress, frameworks wordpress knowledge, knowledge and desire, desire to learn]",
+    "unique_id": "1afa17ef-7c51-44e0-8fb8-fe7bec912ad1"
+}

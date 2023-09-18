@@ -1,4 +1,9 @@
 import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
+import string
 import spacy
 
 nlp = spacy.load("en_core_web_md")
@@ -39,8 +44,20 @@ class TextCleaner:
         Returns:
             str: The cleaned text.
         """
+        lemmatizer = WordNetLemmatizer()
+        text = re.sub(r"\n", " ", text)
+        text = re.sub(
+            r"[\u0000-\u001F\u007F-\u009F\u00AD\u0600-\u0604\u200B-\u200F\u2028-\u202F\u2060-\u206F\uFEFF]",
+            "",
+            text,
+        )
         text = TextCleaner.remove_emails_link(text)
-        doc = nlp(text)
+        tokens = TextCleaner.remove_stopwords(text)
+        tokens = word_tokenize(text.lower())
+        tokens = [lemmatizer.lemmatize(token) for token in tokens]
+        cleaned_text = " ".join(tokens)
+
+        doc = nlp(cleaned_text)
         for token in doc:
             if token.pos == "PUNCT":
                 text = text.replace(token.text, "")

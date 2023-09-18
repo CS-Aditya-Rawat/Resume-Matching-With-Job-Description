@@ -26,8 +26,7 @@ class DataExtractor:
             raw_text (str): The raw input text.
         """
         self.text = raw_text
-        self.clean_text = TextCleaner.clean_text(self.text)
-        self.doc = nlp(self.clean_text)
+        self.doc = nlp(self.text)
 
     def extract_links(self) -> list:
         """

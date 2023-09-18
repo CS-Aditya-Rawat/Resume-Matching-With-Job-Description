@@ -1,0 +1,222 @@
+{
+    "bi_grams": "[ENGINEERING INTERN, INTERN Summary, Summary Motivated, Motivated Entry, Entry Level, Level Civil, Civil Engineer, technical knowledge, quality assurance, assurance mindset, mindset necessary, conquer unforeseen, unforeseen obstacles, efficient work, work ethics, high performance, mastering tasks, better future, future duties, \u00c2 \u00c2, Relevant Courses, Courses Materials, Construction Construction, Construction Management, Management Reinforced, Reinforced Concrete, Concrete Structural, Structural Steel, Steel Design, Design Survey\u00c2, Engineering Leadership, Leadership Foundation, Foundation Design, Design Environmental, Environmental Engineering, Engineering Soil, Soil Engineering, Engineering Transportation, Transportation Engineering, Engineering Experience, Experience Company, Engineering Intern, Spreadsheets Estimating, Estimating Dealt, Suppliers Plan, Plan Revisions, Revisions Company, Field Engineering, Engineering Intern, Drill Logs, Logs Time, Time Cards, Cards Drilled, Drilled Shaft, Shaft Concrete, Concrete Pours, Pours Quantities, Quantities Company, Field Engineering, Engineering Intern, Spreadsheets Concrete, Concrete RFI, Soil Nail, Nail Wall, Wall Installation, Installation Skills, Skills Bluebeam, Microsoft Word, Autocad Civil, Civil 3D., 3D. Education, Training Bachelor, Civil Engineering, Honors Dean]",
+    "clean_data": "ENGINEERING INTERN Summary Motivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen obstacles. Organized, detail-oriented, and efficient work ethics. Committed to high performance and mastering tasks to better future duties.\u00c2 \u00c2  Relevant Courses Materials of Construction Construction Management Reinforced Concrete Structural Steel Design Survey\u00c2  Engineering Leadership Foundation Design Environmental Engineering Soil Engineering Transportation Engineering Experience Company Name   City   ,  State   Engineering Intern   05/2017   to  08/2017 Spreadsheets Estimating Dealt with Subcontractors/Suppliers Plan Revisions Company Name   City   ,  State   Field Engineering Intern   05/2016   to  08/2016 Drill Logs Time Cards Drilled Shaft Concrete Pours Quantities Company Name   City   ,  State   Field Engineering Intern   05/2015   to  08/2015 Spreadsheets Concrete RFI's Soil Nail Wall Installation Skills Bluebeam, Mathcad, Microsoft Word, Excel, Project, Powerpoint, Autocad Civil 3D. Education and Training Bachelor of Science   :   Civil Engineering   2018   University of Pittsburgh at Johnstown   ,  City   ,  State   GPA: 3.01 Activities and Honors Dean's List - 2013",
+    "emails": [],
+    "entities": [
+        "GPA",
+        "Mathcad",
+        "Soil Nail Wall Installation Skills Bluebeam",
+        "State",
+        "Autocad Civil 3D. Education",
+        "Project, Powerpoint",
+        "Microsoft",
+        "University of Pittsburgh",
+        "RFI"
+    ],
+    "experience": "Summary Motivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen obstacles . Organized , detail - oriented , and efficient work ethics . Committed to high performance and mastering tasks to better future duties . \u00c2 \u00c2   Relevant Courses Materials of Construction Construction Management Reinforced Concrete Structural Steel Design Survey\u00c2   Engineering Leadership Foundation Design Environmental Engineering Soil Engineering Transportation Engineering Experience Company Name    City    ,   State    Engineering Intern    05/2017    to   08/2017 Spreadsheets Estimating Dealt with Subcontractors / Suppliers Plan Revisions Company Name    City    ,   State    Field Engineering Intern    05/2016    to   08/2016 Drill Logs Time Cards Drilled Shaft Concrete Pours Quantities Company Name    City    ,   State    Field Engineering Intern    05/2015    to   08/2015 Spreadsheets Concrete RFI 's Soil Nail Wall Installation Skills Bluebeam , Mathcad , Microsoft Word , Excel , Project , Powerpoint , Autocad Civil 3D. Education and Training Bachelor of Science    :    Civil Engineering    2018    University of Pittsburgh at Johnstown    ,   City    ,   State    GPA : 3.01 Activities and Honors Dean 's List - 2013",
+    "extracted_keywords": [
+        "ENGINEERING",
+        "INTERN",
+        "Summary",
+        "Motivated",
+        "Entry",
+        "Level",
+        "Civil",
+        "Engineer",
+        "knowledge",
+        "quality",
+        "assurance",
+        "mindset",
+        "obstacles",
+        "detail",
+        "work",
+        "ethics",
+        "performance",
+        "tasks",
+        "duties",
+        "\u00c2",
+        "Relevant",
+        "Courses",
+        "Materials",
+        "Construction",
+        "Construction",
+        "Management",
+        "Concrete",
+        "Structural",
+        "Steel",
+        "Design",
+        "Survey\u00c2",
+        "Engineering",
+        "Leadership",
+        "Foundation",
+        "Design",
+        "Environmental",
+        "Engineering",
+        "Soil",
+        "Engineering",
+        "Transportation",
+        "Engineering",
+        "Experience",
+        "Company",
+        "Name",
+        "City",
+        "State",
+        "Engineering",
+        "Intern",
+        "05/2017",
+        "08/2017",
+        "Spreadsheets",
+        "Estimating",
+        "Dealt",
+        "Subcontractors",
+        "Suppliers",
+        "Plan",
+        "Revisions",
+        "Company",
+        "Name",
+        "City",
+        "State",
+        "Field",
+        "Engineering",
+        "Intern",
+        "05/2016",
+        "08/2016",
+        "Drill",
+        "Logs",
+        "Time",
+        "Cards",
+        "Shaft",
+        "Concrete",
+        "Pours",
+        "Quantities",
+        "Company",
+        "Name",
+        "City",
+        "State",
+        "Field",
+        "Engineering",
+        "Intern",
+        "05/2015",
+        "Spreadsheets",
+        "Concrete",
+        "RFI",
+        "Soil",
+        "Nail",
+        "Wall",
+        "Installation",
+        "Skills",
+        "Bluebeam",
+        "Mathcad",
+        "Microsoft",
+        "Word",
+        "Excel",
+        "Project",
+        "Powerpoint",
+        "Autocad",
+        "Civil",
+        "3D.",
+        "Education",
+        "Training",
+        "Bachelor",
+        "Science",
+        "Civil",
+        "Engineering",
+        "University",
+        "Pittsburgh",
+        "Johnstown",
+        "City",
+        "State",
+        "GPA",
+        "Activities",
+        "Honors",
+        "Dean",
+        "List"
+    ],
+    "keyterms": [
+        [
+            "Field Engineering Intern",
+            0.47675934701696554
+        ],
+        [
+            "Motivated Entry",
+            0.06468935763747449
+        ],
+        [
+            "Summary Motivated",
+            0.03885664396791083
+        ],
+        [
+            "Civil",
+            0.030588236951829918
+        ],
+        [
+            "INTERN Summary",
+            0.02902979637651553
+        ],
+        [
+            "engineering INTERN",
+            0.02391694073623835
+        ],
+        [
+            "City",
+            0.016094060207732377
+        ],
+        [
+            "state",
+            0.014824615341365598
+        ],
+        [
+            "Concrete",
+            0.011774628209295777
+        ],
+        [
+            "Company",
+            0.011603318903446066
+        ],
+        [
+            "Soil",
+            0.00812911951884079
+        ],
+        [
+            "Design",
+            0.006461950482018318
+        ],
+        [
+            "Construction",
+            0.004337301966762687
+        ],
+        [
+            "spreadsheet",
+            0.004059026988318457
+        ],
+        [
+            "Revisions",
+            0.004031647305437173
+        ],
+        [
+            "dealt",
+            0.004031169615858742
+        ],
+        [
+            "Transportation",
+            0.004015847835943767
+        ],
+        [
+            "Plan",
+            0.003999668721770787
+        ],
+        [
+            "subcontractor",
+            0.003997432422770023
+        ],
+        [
+            "Experience",
+            0.003973854248172127
+        ]
+    ],
+    "phones": [],
+    "resume_data": "ENGINEERING INTERN\nSummary\nMotivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen obstacles.\nOrganized, detail-oriented, and efficient work ethics. Committed to high performance and mastering tasks to better future duties.\u00c2 \u00c2 \nRelevant Courses\nMaterials of Construction\nConstruction Management\nReinforced Concrete\nStructural Steel Design\nSurvey\u00c2 \nEngineering Leadership\nFoundation Design\nEnvironmental Engineering\nSoil Engineering\nTransportation Engineering\nExperience\nCompany Name\n \nCity\n \n, \nState\n \nEngineering Intern\n \n05/2017\n \nto \n08/2017\nSpreadsheets\nEstimating\nDealt with Subcontractors/Suppliers\nPlan Revisions\nCompany Name\n \nCity\n \n, \nState\n \nField Engineering Intern\n \n05/2016\n \nto \n08/2016\nDrill Logs\nTime Cards\nDrilled Shaft Concrete Pours\nQuantities\nCompany Name\n \nCity\n \n, \nState\n \nField Engineering Intern\n \n05/2015\n \nto \n08/2015\nSpreadsheets\nConcrete\nRFI's\nSoil Nail Wall Installation\nSkills\nBluebeam, Mathcad, Microsoft Word, Excel, Project, Powerpoint, Autocad Civil 3D.\nEducation and Training\nBachelor of Science\n \n:\n \nCivil Engineering\n \n2018\n \nUniversity of Pittsburgh at Johnstown\n \n, \nCity\n \n, \nState\n \nGPA: 3.01\nActivities and Honors\nDean's List - 2013",
+    "tri_grams": "[ENGINEERING INTERN Summary, INTERN Summary Motivated, Summary Motivated Entry, Motivated Entry Level, Entry Level Civil, Level Civil Engineer, Engineer with technical, quality assurance mindset, assurance mindset necessary, necessary to conquer, conquer unforeseen obstacles, efficient work ethics, Committed to high, performance and mastering, tasks to better, better future duties, Relevant Courses Materials, Materials of Construction, Construction Construction Management, Construction Management Reinforced, Management Reinforced Concrete, Reinforced Concrete Structural, Concrete Structural Steel, Structural Steel Design, Steel Design Survey\u00c2, Engineering Leadership Foundation, Leadership Foundation Design, Foundation Design Environmental, Design Environmental Engineering, Environmental Engineering Soil, Engineering Soil Engineering, Soil Engineering Transportation, Engineering Transportation Engineering, Transportation Engineering Experience, Engineering Experience Company, Spreadsheets Estimating Dealt, Dealt with Subcontractors, Suppliers Plan Revisions, Plan Revisions Company, Field Engineering Intern, Drill Logs Time, Logs Time Cards, Time Cards Drilled, Cards Drilled Shaft, Drilled Shaft Concrete, Shaft Concrete Pours, Concrete Pours Quantities, Pours Quantities Company, Field Engineering Intern, Spreadsheets Concrete RFI, RFI's Soil, Soil Nail Wall, Nail Wall Installation, Wall Installation Skills, Installation Skills Bluebeam, Autocad Civil 3D., Civil 3D. Education, Education and Training, Bachelor of Science, University of Pittsburgh, Pittsburgh at Johnstown, Activities and Honors, Dean's List]",
+    "unique_id": "070a3eb6-065b-4bff-9250-1f49dcca5527",
+    "years": []
+}
