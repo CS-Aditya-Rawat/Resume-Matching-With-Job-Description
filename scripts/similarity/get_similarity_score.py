@@ -135,13 +135,15 @@ if __name__ == "__main__":
     READ_RESUME_FROM = os.path.join(cwd, "data", "Processed", "Resumes")
     READ_JOB_DESCRIPTION_FROM = os.path.join(cwd, "data", "Processed", "JobDescription")
     with open(
-        READ_RESUME_FROM + "\\Resume-10030015d193d501-3e8f-48d2-81f3-d79a872d85ee.json",
+        READ_RESUME_FROM + "\\Resume-10624813b258dd17-ef08-416f-85f1-8a23a847fb1f.json",
         "r",
     ) as f:
         data = json.load(f)
         resume_keywords = data["extracted_keywords"]
     with open(
-        READ_JOB_DESCRIPTION_FROM + "\\JobDescription-training_data.json", "r"
+        READ_JOB_DESCRIPTION_FROM
+        + "\\JobDescription-2b6493be-c221-4f45-ab02-f5787965a36f.json",
+        "r",
     ) as f:
         data = json.load(f)
         job_description_keywords = data["extracted_keywords"]
