@@ -36,6 +36,19 @@ Follow these steps to setup the environment and run the application.
     ```
     py test.py
     ```
+8. If you want to run sentence Transformer, then you can run the file directly.
+    ```
+    py sentence_transformer.py
+    ```
+9. If you want to use Cohere API and Qdrant DB, Then you need to follow these steps also:
+    - Create a Cohere API KEY, Qdrant KEY, Qdrant URL.
+    - Create a file `.env` and store them.
+    ```
+    QDRANT_KEY=""
+    QDRANT_URL=""
+    OHERE_KEY=""
+    ```
+10. Then to run this, You have to change the resume and JD in `scripts/get_similarity_score.py` and can execute the file, to see the similarity between that Resume and JD.
 ## Extraction of Information from Resumes and JDs
 ### Resume Processing is completed.
 1. Extraction of Experience, position, year, skills, name, email, phone and all the links.
@@ -73,3 +86,7 @@ Follow these steps to setup the environment and run the application.
 1. I encountered an issue when applying cosine similarity to the embedded resumes and job descriptions. After encoding them, the model provided me with a numpy array of shape (n,). When attempting to compute cosine similarity, I received an error message instructing me to "reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample."
 
     - **Solution**: To resolve this, I chose to reshape the data with the dimensions (1, -1). I opted for (1, -1) because my goal was to compare one job description to one resume at a time.
+
+## Things Left to do:
+- [ ] Parse Multiple Resume for a single JD using CohereAPI and Qdrant DB.
+- [ ] I have extracted `bi-grams`, `tri-grams` but havn't used them. Will use them to increase the model accuracy for finding similarity.
